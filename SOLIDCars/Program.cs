@@ -107,6 +107,31 @@ namespace SOLIDCars
 
 
 
+            //// New Code
+            //var blueAngel = new BlueAngel
+            //{
+            //    Name = "Blue Angel",
+            //    Wheels = 3,
+            //    Doors = 1,
+            //    PassengerCapacity = 2,
+            //    Winged = true,
+            //    MaxAirSpeed = 700
+            //};
+
+            //var boeing747 = new Boeing747
+            //{
+            //    Name = "Boeing 747",
+            //    Wheels = 3,
+            //    Doors = 8,
+            //    PassengerCapacity = 150,
+            //    Winged = true,
+            //    MaxAirSpeed = 570
+            //};
+
+
+
+
+
             Console.ReadLine();
 
         }
